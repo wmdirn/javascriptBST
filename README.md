@@ -61,25 +61,25 @@ BST.postorder(root); //DFS recursive
 
 ### ⚡⚡⚡VISUALIZATION⚡⚡⚡
 
-## 🔧Breadth First Search🔧
+## Breadth First Search
 <img align="left" alt="JavaScript" src="res/bfs.gif" /><br />
 [via MEDIUM](https://medium.com/@avinash.sarguru/breadth-first-search-in-a-binary-tree-405515e65416) <br /><br />
 
 
 
-## 🔧Depth First Search - InOrder🔧
+## Depth First Search - InOrder
 <img alt="Traversal" src="res/inorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br /><br />
 
 
 
-## 🔧Depth First Search - PreOrder🔧
+## Depth First Search - PreOrder
 <img alt="Traversal" src="res/preorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br /><br />
 
 
 
-## 🔧Depth First Search - PostOrder🔧
+## Depth First Search - PostOrder
 <img alt="Traversal" src="res/postorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br /><br />
 
