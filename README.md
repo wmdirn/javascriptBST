@@ -4,7 +4,7 @@
 ### Hi there, I'm Khaleel aka Magnificvs (Magnificus) 👋
 ## I'm a Developer, Mystic and Dreamer
 
-- 🔭 This repo will have LeetCode Solutions
+- 🔭 Class that implements Binary Search Tree Data Structure in Javascript
 - 🥅 Feel free to use but UNDERSTAND what the code does
 - ⚡ JAVASCRIPT Code only
 
@@ -63,14 +63,14 @@ BST.postorder(root); //DFS recursive
 [via MEDIUM](https://medium.com/@avinash.sarguru/breadth-first-search-in-a-binary-tree-405515e65416) <br />
 
 ## 🔧Depth First Search - InOrder🔧
-<img align="left" alt="Traversal" width="26px" src="res/inorder.gif" /><br />
+<img align="left" alt="Traversal" src="res/inorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br />
 
 ## 🔧Depth First Search - PreOrder🔧
-<img align="left" alt="Traversal" width="26px" src="res/preorder.gif" /><br />
+<img align="left" alt="Traversal" src="res/preorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br />
 
 ## 🔧Depth First Search - PostOrder🔧
-<img align="left" alt="Traversal" width="26px" src="res/postorder.gif" /><br />
+<img align="left" alt="Traversal" src="res/postorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br />
 
