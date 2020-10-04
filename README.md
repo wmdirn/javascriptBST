@@ -65,18 +65,18 @@ BST.postorder(root); //DFS recursive
 
 
 ## 🔧Depth First Search - InOrder🔧
-<img align="left" alt="Traversal" src="res/inorder.gif" /><br />
+<img alt="Traversal" src="res/inorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br /><br />
 
 
 
 ## 🔧Depth First Search - PreOrder🔧
-<img align="left" alt="Traversal" src="res/preorder.gif" /><br />
+<img alt="Traversal" src="res/preorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br /><br />
 
 
 
 ## 🔧Depth First Search - PostOrder🔧
-<img align="left" alt="Traversal" src="res/postorder.gif" /><br />
+<img alt="Traversal" src="res/postorder.gif" /><br />
 [via SITE](http://ceadserv1.nku.edu/longa/classes/mat385_resources/docs/traversal.htm) <br /><br />
 
