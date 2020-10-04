@@ -1,8 +1,8 @@
-### Binary Search Tree 
+## Binary Search Tree Javascript (Recursive)
 
 
 ### Hi there, I'm Khaleel aka Magnificvs (Magnificus) 👋
-## I'm a Developer, Mystic and Dreamer
+### I'm a Developer, Mystic and Dreamer
 
 - 🔭 Class that implements Binary Search Tree Data Structure in Javascript
 - 🥅 Feel free to use but UNDERSTAND what the code does
